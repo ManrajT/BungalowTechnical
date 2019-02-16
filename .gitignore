@@ -3,3 +3,4 @@ static/
 env/
 mysite/__pycache__/
 bungalow/__pycache__/
+bungalow/migrations/__pycache__/
