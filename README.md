@@ -9,5 +9,5 @@ excited to learn.
 To access all the property data go to {domain}/getAllData endpoint.  
 For example, go to https://bungalowtechnical-231523.appspot.com/getAllData
 
-To ingest new data, please use ingest management
+To ingest new data, please use ingest management command.
 For example, python3 manage.py ingest /file/path/to/file.csv
