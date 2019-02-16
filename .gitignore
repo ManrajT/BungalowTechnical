@@ -1,0 +1,5 @@
+mysite/settings.py
+static/
+env/
+mysite/__pycache__/
+bungalow/__pycache__/
